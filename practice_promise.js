@@ -35,4 +35,7 @@ function get_and_pass(aInit) {
 function test() {
 }
 
+function test2() {
+}
+
 get_and_pass(100);
