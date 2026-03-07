@@ -32,4 +32,7 @@ function get_and_pass(aInit) {
         .then((result) => console.log(result));
 }
 
+function test() {
+}
+
 get_and_pass(100);
