@@ -38,4 +38,7 @@ function test() {
 function test2() {
 }
 
+function test3() {
+}
+
 get_and_pass(100);
